@@ -91,12 +91,6 @@
           "downloadUrl": "/zh-CN/download/release-notes-1.0.2",
           "docUrl": "/zh-CN/docs/1.0.2/introduction",
           "sourceTag":"1.0.2"
-        },
-        {
-          "versionLabel": "0.11.0",
-          "downloadUrl": "https://github.com/apache/linkis/releases/tag/0.11.0",
-          "docUrl": "/zh-CN/docs/0.11.0/introduction",
-          "sourceTag":"0.11.0"
         }
       ]
     }
@@ -193,12 +187,6 @@
           "downloadUrl": "/download/release-notes-1.0.2",
           "docUrl": "/docs/1.0.2/introduction",
           "sourceTag":"1.0.2"
-        },
-        {
-          "versionLabel": "0.11.0",
-          "downloadUrl": "https://github.com/apache/linkis/releases/tag/0.11.0",
-          "docUrl": "/docs/0.11.0/introduction",
-          "sourceTag":"0.11.0"
         }
       ]
     }

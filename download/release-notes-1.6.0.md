@@ -3,7 +3,7 @@ title: Release Notes 1.6.0
 sidebar_position: 88
 ---
 
-Apache Linkis 1.6.0 includes all [Project Linkis-1.5.0](https://github.com/apache/linkis/projects/28)
+Apache Linkis 1.6.0 includes all [Project Linkis-1.6.0](https://github.com/apache/linkis/projects/28)
 
 Linkis 1.6.0 version mainly adds the following features: Spring family bucket upgraded to the latest security version, Orchestrator supports pluggable, result set storage supports switching to ORC and Parquet format storage, supports task board function, Flink supports UDF function, etc.
 

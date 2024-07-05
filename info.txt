@@ -40,14 +40,13 @@ cp -r current.json version-1.2.0.json
        }
 
  items: [
-        {label: 'Next(1.2.0)', to: '/docs/1.2.0/introduction'},
+        {label: 'Next(1.7.0)', to: '/docs/1.7.0/introduction'},
         {label: '1.1.3', to: '/docs/latest/about/introduction'},
         {label: '1.2.0', to: '/docs/1.2.0/introduction'},
         {label: '1.1.1', to: '/docs/1.1.1/introduction'},
         {label: '1.1.0', to: '/docs/1.1.0/introduction'},
         {label: '1.0.3', to: '/docs/1.0.3/introduction'},
         {label: '1.0.2', to: '/docs/1.0.2/introduction'},
-        {label: '0.11.0', to: '/docs/0.11.0/introduction'},
         {label: 'All Version', to: '/versions'}
 ]
 

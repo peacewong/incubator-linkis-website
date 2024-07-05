@@ -3,7 +3,7 @@ title: Release Notes 1.6.0
 sidebar_position: 88
 ---
 
-Apache Linkis 1.6.0 包括所有 [Project Linkis-1.5.0](https://github.com/apache/linkis/projects/28)
+Apache Linkis 1.6.0 包括所有 [Project Linkis-1.6.0](https://github.com/apache/linkis/projects/28)
 
 Linkis 1.6.0 版本，主要新增如下特性功能： Spring 全家桶升级为最新安全版本、Orchestrator支持可插拔、结果集存储支持切换为ORC和Parquet格式存储、支持任务看板功能、Flink支持UDF函数等
 
