@@ -30,7 +30,7 @@ Add the following configuration
 vim $HIVE_HOME/conf/hive-log4j2.properties
 
 Add the following configuration
-og4j.logger.org.apache.hadoop.hive.ql.hooks.LineageLogger=INFO
+log4j.logger.org.apache.hadoop.hive.ql.hooks.LineageLogger=INFO
 ```
 
 ### 2.3 Submit task

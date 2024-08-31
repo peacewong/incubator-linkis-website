@@ -30,7 +30,7 @@ vim $HIVE_HOME/conf/hive-site.xml
 vim $HIVE_HOME/conf/hive-log4j2.properties
 
 增加如下配置
-og4j.logger.org.apache.hadoop.hive.ql.hooks.LineageLogger=INFO
+log4j.logger.org.apache.hadoop.hive.ql.hooks.LineageLogger=INFO
 ```
 
 ### 2.3 提交任务
