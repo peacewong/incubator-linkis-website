@@ -4,7 +4,7 @@ sidebar_position: 0
 ---
 ## Download
 
-Use the links below to download the Apache Linkis Releases, the latest release is 1.6.0
+Use the links below to download the Apache Linkis Releases, the latest release is 1.7.0
 
 
 | Version                                      | Release Date | Source                                                                                                                                                                                                                                                                                                                                                                                    | Binary                                                                                                                                                                                                                                                                                                                                                                                    | Web Binary                                                                                                                                                                                                                                                                                                                                                                                             | Release Notes                           |
